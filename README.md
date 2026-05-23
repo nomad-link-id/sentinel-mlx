@@ -4,7 +4,7 @@
 
 Submission for the [webAI YOLO26 MLX Build Challenge — May 2026](https://community.webai.com/t/the-yolo26-mlx-build-challenge-may-2026/16).
 
-> **Watch the 60-second demo:** [TBD-VIDEO-URL]
+> **Watch the 55-second demo:** https://youtu.be/c2v5Mdg5fpw
 
 ---
 
