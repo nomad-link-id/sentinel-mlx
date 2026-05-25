@@ -131,7 +131,7 @@ The complete rationale for these choices is in
 **[@nomad-link-id](https://github.com/nomad-link-id)** — Engineering and
 implementation. Background in healthtech and AI infrastructure.
 
-**Lexi Armstrong** — Industrial Security Specialist with 8+ years in US
+**Lexi Armstrong(https://github.com/domainhaus)** — Industrial Security Specialist with 8+ years in US
 defense contracting at Booz Allen Hamilton, Boeing, and Leidos. US Navy
 veteran. Domain framing and use-case validation.
 
